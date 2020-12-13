@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/CMakeFiles/bpdbc_project"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/CMakeFiles/bpdbc_project.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/CMakeFiles/bpdbc_project-complete.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-install.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-mkdir.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-download.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-update.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-patch.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-configure.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-build.rule"
+		},
+		{
+			"file" : "/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bpdbc_project"
+		],
+		"name" : "bpdbc_project"
+	}
+}

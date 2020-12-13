@@ -1,0 +1,52 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.1",
+    "types": [],
+    "structs": [
+        {
+            "name": "addliquidity",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "allocate",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "claim",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "split",
+            "base": "",
+            "fields": []
+        }
+    ],
+    "actions": [
+        {
+            "name": "addliquidity",
+            "type": "addliquidity",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "allocate",
+            "type": "allocate",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "claim",
+            "type": "claim",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "split",
+            "type": "split",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [],
+    "ricardian_clauses": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+20a8ccb9bbaa115ab341b446f74d263f CMakeFiles/bpdbc_project
+6e5d546aa7627ea0333d68bd37bdcd09 CMakeFiles/bpdbc_project-complete
+2a4487217fcef80654f2a9ac60d6f2d1 bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-build
+e405698827d45e92a16107625a53741b bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-configure
+d517858310f5da5749109a632ff969b4 bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-download
+3fbc520cddcf98031d874593550d6884 bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-install
+e35b9352758291239c5ea293f7b54769 bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-mkdir
+1a976010e257d434185c3afe231c2b76 bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-patch
+75662eefc5e6716d42a854123bfaf81b bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-test
+5016f883f302c194d1531722da1bc7a8 bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-update

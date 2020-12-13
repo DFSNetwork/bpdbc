@@ -1,0 +1,14 @@
+# Target labels
+ bpdbc_project
+# Source files and their labels
+/Users/joe/dfs-core/bpdbc/build/CMakeFiles/bpdbc_project
+/Users/joe/dfs-core/bpdbc/build/CMakeFiles/bpdbc_project.rule
+/Users/joe/dfs-core/bpdbc/build/CMakeFiles/bpdbc_project-complete.rule
+/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-install.rule
+/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-mkdir.rule
+/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-download.rule
+/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-update.rule
+/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-patch.rule
+/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-configure.rule
+/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-build.rule
+/Users/joe/dfs-core/bpdbc/build/bpdbc_project-prefix/src/bpdbc_project-stamp/bpdbc_project-test.rule
