@@ -40,7 +40,7 @@ void bpdbc::addliquidity()
    require_auth(get_self());
    asset granary_bal = utils::get_balance(name("eosio.token"), name("granary.tag"), symbol_code("EOS"));
    asset tag_bal = utils::get_balance(name("tagtokenmain"), name("granary.tag"), symbol_code("TAG"));
-   asset tag_fund = granary_bal / 2;
+   asset tag_fund = granary_bal;
    if (tag_fund.amount > 0 && tag_bal.amount > 0)
    {
       uint64_t mid = 602; // TAG/EOS 做市
